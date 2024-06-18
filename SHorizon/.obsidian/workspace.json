@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magical/Kits/Nécromancien.md",
+                "file": "Magical/Kits/Vitalien.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magical/Kits/Nécromancien.md",
+                "file": "Magical/Kits/Vitalien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magical/Kits/Nécromancien.md",
+                "file": "Magical/Kits/Vitalien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magical/Kits/Nécromancien.md"
+                "file": "Magical/Kits/Vitalien.md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "ef62e15d040dce41",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Magical/Kits/Nécromancien.md",
+    "Magical/Guidelines.md",
+    "Magical/Kits/Singe.md",
     "Magical/Kits/Model Kit.md",
-    "Magical/Kits/Lance.md",
     "Magical/Kits/Bouclier.md",
+    "Magical/Kits/Vitalien.md",
+    "Magical/Kits/Lance.md",
+    "Magical/Kits/Chasseur.md",
     "Magical/Kits - Suivi.md",
-    "Magical/Guidelines.md"
+    "Welcome.md"
   ]
 }
